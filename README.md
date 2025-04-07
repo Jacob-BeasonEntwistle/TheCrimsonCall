@@ -22,8 +22,11 @@ How to play:
 
 -------------------------------------------------
 Folder Structure:
+
 Blueprints: TheCrimsonCall\Content\CC_Blueprints
+
 Materials: TheCrimsonCall\Content\CC_Materials
+
 Animations: TheCrimsonCall\Content\CC_Characters
 
 -------------------------------------------------
