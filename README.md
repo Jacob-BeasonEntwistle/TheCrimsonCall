@@ -31,9 +31,3 @@ Animations: TheCrimsonCall\Content\CC_Characters
 
 -------------------------------------------------
 References:
-
-Player Character
-"Medieval Knight | Sculpture | Game ready" (https://skfb.ly/oOYNI) by by__Rx
-
-Red Telephone Box
-Red Phone Box / Telephone Booth (https://skfb.ly/pq9BP) by Studio Lab
