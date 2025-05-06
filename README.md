@@ -1,9 +1,11 @@
-The Crimson Call
+# Project Title: The Crimson Call
+Date: 06/05/2025
+Author: Jacob Beason Entwistle
 
 This repository is for the final submission of my 3D Game Programming and Game Asset Pipeline modules.
 
 -------------------------------------------------
-Story
+## Story
 You are a knight that awoke in the middle of a forest. The only thing around is an ancient ruin that holds in the center a silver wand-like object with a blue glow. You pick up this wand and are flooded with some strange power that remains dormant until you use the wand. A path leads to a nearby village and the gate opens for you with the same blue glow as the wand. Within the village walls lies a bright red box which makes you ask yourself questions.
 
 Why does it seem so familiar yet so out of place?
@@ -15,13 +17,24 @@ Play to find out!
 by Jacob Beason Entwistle
 
 -------------------------------------------------
-How to play:
+## How to play
+
+Keyboard Controls:
 - WASD to move
+- Mouse to look around
+- LMB to attack
 - Space to jump
 - E to interact
 
+XBOX Controls:
+- Left Joystick to move
+- Right Joystick to look around
+- Right Trigger to attack
+- A to jump
+- X to interact
+
 -------------------------------------------------
-Folder Structure:
+## Folder Structure
 
 Blueprints: TheCrimsonCall\Content\CC_Blueprints
 
@@ -29,8 +42,11 @@ Materials: TheCrimsonCall\Content\CC_Materials
 
 Animations: TheCrimsonCall\Content\CC_Characters
 
+OneDrive Link:
+
+
 -------------------------------------------------
-References:
+## References
 Player Character
 "Medieval Knight | Sculpture | Game ready" (https://skfb.ly/oOYNI) by by__Rx
 
