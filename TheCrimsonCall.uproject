@@ -13,15 +13,11 @@
 		},
 		{
 			"Name": "FMODStudio",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "FMODStudioNiagara",
-			"Enabled": true
-		},
-		{
-			"Name": "Water",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
