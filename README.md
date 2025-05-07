@@ -1,5 +1,7 @@
 # Project Title: The Crimson Call
+
 Date: 06/05/2025
+
 Author: Jacob Beason Entwistle
 
 This repository is for the final submission of my 3D Game Programming and Game Asset Pipeline modules.
