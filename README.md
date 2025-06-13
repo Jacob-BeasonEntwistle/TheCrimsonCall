@@ -1,10 +1,13 @@
 # Project Title: The Crimson Call
 
-Date: 06/05/2025
+**Date:** 06/05/2025
 
-Author: Jacob Beason Entwistle
+**Author:** Jacob Beason Entwistle
 
-This repository is for the final submission of my 3D Game Programming and Game Asset Pipeline modules.
+**Modules:** 3D Game Programming | Game Asset Pipeline
+
+This is a third-person adventure game created using **Unreal Engine 5** and **Blueprints** as part of my university coursework.
+*Note: This project uses Blueprint visual scripting only. No playable build is included in this repository.*
 
 -------------------------------------------------
 ## Story
@@ -19,16 +22,23 @@ Play to find out!
 by Jacob Beason Entwistle
 
 -------------------------------------------------
+## Key Features
+- Third-person character controller with combat, jumping, and interaction
+- Blueprint-driven gameplay logic (no C++ used)
+- Environmental Storytelling and world building
+- Asset integration with animations, materials, and custom level design
+
+-------------------------------------------------
 ## How to play
 
-Keyboard Controls:
+**Keyboard Controls:**
 - WASD to move
 - Mouse to look around
 - LMB to attack
 - Space to jump
 - E to interact
 
-XBOX Controls:
+**XBOX Controls:**
 - Left Joystick to move
 - Right Joystick to look around
 - Right Trigger to attack
@@ -38,18 +48,18 @@ XBOX Controls:
 -------------------------------------------------
 ## Folder Structure
 
-Blueprints: TheCrimsonCall\Content\CC_Blueprints
-
-Materials: TheCrimsonCall\Content\CC_Materials
-
-Animations: TheCrimsonCall\Content\CC_Characters
-
-OneDrive Link:
-
+- **Blueprints:** TheCrimsonCall\Content\CC_Blueprints
+- **Materials:** TheCrimsonCall\Content\CC_Materials
+- **Animations:** TheCrimsonCall\Content\CC_Characters
 
 -------------------------------------------------
-## References
-Player Character
+## Gameplay Video
+
+*Coming soon!*
+
+-------------------------------------------------
+## Assets & Credits
+Knight Model
 "Medieval Knight | Sculpture | Game ready" (https://skfb.ly/oOYNI) by by__Rx
 
 Red Telephone Box
