@@ -55,7 +55,7 @@ by Jacob Beason Entwistle
 -------------------------------------------------
 ## Gameplay Video
 
-*Coming soon!*
+https://youtu.be/rcgTyi5tEBQ?si=WIVtGGNQXO1AELs1
 
 -------------------------------------------------
 ## Assets & Credits
